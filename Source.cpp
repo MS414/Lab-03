@@ -20,6 +20,6 @@ int main() {
 	scanf("%d", &N);
 	printf("Input M ");
 	scanf("%d", &M);
-	deg(M, N);
+	deg(N, M);
 	return 0;
 }
